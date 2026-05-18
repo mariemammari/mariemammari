@@ -8,47 +8,32 @@
 
 ![Full Stack](https://img.shields.io/badge/Full%20Stack-a855f7?style=flat-square&labelColor=07060d)
 ![DevOps](https://img.shields.io/badge/DevOps-93c5fd?style=flat-square&labelColor=07060d)
-![UI%2FUX](https://img.shields.io/badge/UI%2FUX-ffffff?style=flat-square&labelColor=07060d)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-ffffff?style=flat-square&labelColor=07060d)
 ![ML](https://img.shields.io/badge/ML-4ade80?style=flat-square&labelColor=07060d)
 
-*CS Engineering Student · ESPRIT — Full stack Web developer*
+*CS Engineering Student · ESPRIT — Web Technologies & Internet*
 
+![Visitors](https://komarev.com/ghpvc/?username=mariemammari&color=a855f7&style=flat-square&label=profile+views)
 
 </div>
 
 ---
 
 Hi, I'm Mariem.
+
 I take crafting applications personally — quality and attention to detail are what make a project truly worth building.
+
 I earned my bachelor's degree in Computer Science with honors from ISSAT Sousse, and I'm currently completing my engineering cycle at ESPRIT, specializing in Web Technologies & Internet.
+
 Five years across frontend, backend, DevOps, design, and machine learning gave me something I value more than any single skill: the ability to see a product as a whole.
 
 ---
 
 ### Stack
 
-| | |
-|:--|:--|
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Angular](https://img.shields.io/badge/Angular_17-DD0031?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-0EA5E9?style=flat-square&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
-| **Backend & APIs** | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![REST](https://img.shields.io/badge/REST_APIs-a855f7?style=flat-square) ![Microservices](https://img.shields.io/badge/Microservices-93c5fd?style=flat-square) |
-| **Languages** | ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![CSharp](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
-| **Prior Frameworks** | ![Symfony](https://img.shields.io/badge/Symfony-black?style=flat-square&logo=symfony&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
-| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white) |
-| **Observability** | ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) |
-| **Data & ML** | ![Scraping](https://img.shields.io/badge/Web_Scraping-4ade80?style=flat-square) ![Processing](https://img.shields.io/badge/Data_Processing-4ade80?style=flat-square) ![Models](https://img.shields.io/badge/Model_Selection-4ade80?style=flat-square) ![Tuning](https://img.shields.io/badge/Hyperparameter_Tuning-4ade80?style=flat-square) ![Scikit](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
-| **Design** | ![Figma](https://img.shields.io/badge/Figma-a855f7?style=flat-square&logo=figma&logoColor=white) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![SQLServer](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) |
-| **Workflow** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-93c5fd?style=flat-square) ![Kanban](https://img.shields.io/badge/Kanban-a855f7?style=flat-square) ![Collab Tools](https://img.shields.io/badge/Collaboration_Tools-555555?style=flat-square) |
-
----
-
-### DevOps pipeline
-
-```
- Code  →  Jenkins CI  →  SonarQube  →  Docker  →  Kubernetes  →  Grafana + Prometheus
-  ↑                                                                         ↓
-  └─────────────────────── feedback & monitoring ───────────────────────────┘
-```
+<div align="center">
+<img src="https://raw.githubusercontent.com/mariemammari/mariemammari/main/stack.svg" alt="Tech Stack" width="100%" />
+</div>
 
 ---
 
