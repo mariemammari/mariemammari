@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07060d,50:a855f7,100:93c5fd&height=120&section=header&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=14&pause=800&color=A855F7&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Design+%E2%86%92+Code+%E2%86%92+Deploy;React+%C2%B7+Angular+17+%C2%B7+NestJS+%C2%B7+Spring+Boot;Docker+%C2%B7+Kubernetes+%C2%B7+Jenkins+%C2%B7+Grafana;ML+Pipeline+%E2%80%94+Scraping+to+Production;Open+to+Internship+Opportunities" alt="Mariem Ammari" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=14&pause=800&color=A855F7&center=true&vCenter=true&width=520&lines=Full+Stack+Web+Developer;CS+Engineer+%40+ESPRIT;Open+to+Internship+Opportunities" alt="Mariem Ammari" />
 
 # Mariem Ammari
 
@@ -13,21 +13,15 @@
 
 *CS Engineering Student · ESPRIT — Full stack Web developer*
 
-![Visitors](https://komarev.com/ghpvc/?username=mariemammari&color=a855f7&style=flat-square&label=profile+views)
 
 </div>
 
 ---
 
-### Who I am
-
-I own the full lifecycle — from the first Figma frame to production deployment.
-
-Graduated with honors from **ISSAT Sousse ('24)**, now in my engineering year at **ESPRIT**. I move fluidly between frontend, backend, infrastructure, design, and machine learning. I care as much about how something looks as how it holds up under load.
-
-> *"Polyvalence is the core of my journey: bridging the gap between robust code and aesthetic design."*
-
-Currently seeking a **summer internship** where I can contribute across the stack and keep shipping.
+Hi, I'm Mariem.
+I take crafting applications personally — quality and attention to detail are what make a project truly worth building.
+I earned my bachelor's degree in Computer Science with honors from ISSAT Sousse, and I'm currently completing my engineering cycle at ESPRIT, specializing in Web Technologies & Internet.
+Five years across frontend, backend, DevOps, design, and machine learning gave me something I value more than any single skill: the ability to see a product as a whole.
 
 ---
 
