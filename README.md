@@ -35,32 +35,6 @@ Five years across frontend, backend, DevOps, design, and machine learning gave m
 <img src="https://raw.githubusercontent.com/mariemammari/mariemammari/main/stack.svg" alt="Tech Stack" width="100%" />
 </div>
 
----
-
-### GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mariemammari&show_icons=true&theme=transparent&hide_border=true&title_color=a855f7&icon_color=93c5fd&text_color=ffffff&bg_color=07060d" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mariemammari&theme=transparent&hide_border=true&ring=a855f7&fire=a855f7&currStreakLabel=93c5fd&sideLabels=93c5fd" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariemammari&layout=compact&theme=transparent&hide_border=true&title_color=a855f7&text_color=ffffff&bg_color=07060d" width="42%" />
-
-</div>
-
----
-
-### Currently building
-
-```
-▸  Portfolio (MERN)              — optimized Redux state, deploying soon
-▸  AI Recommendation Engine      — end-to-end ML: scraping → cleaning → model selection
-                                   → hyperparameter tuning → web integration
-▸  DevOps Track @ ESPRIT         — production Kubernetes clusters, CI/CD, observability stack
-```
-
----
-
 ### Connect
 
 <div align="center">
@@ -69,6 +43,6 @@ Five years across frontend, backend, DevOps, design, and machine learning gave m
 [![Behance](https://img.shields.io/badge/Behance-A855F7?style=for-the-badge&logo=behance&logoColor=white)](YOUR_BEHANCE_URL)
 [![Email](https://img.shields.io/badge/Email-07060d?style=for-the-badge&logo=gmail&logoColor=93c5fd)](mailto:YOUR_EMAIL)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:93c5fd,50:a855f7,100:07060d&height=80&section=footer&text=Always+learning.+Always+building.&fontSize=13&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:93c5fd,50:a855f7,100:07060d&height=80&section=footer&text=Always+learning.+forever+grwoing&fontSize=13&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
 
 </div>
