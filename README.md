@@ -10,9 +10,8 @@
 ![DevOps](https://img.shields.io/badge/DevOps-93c5fd?style=flat-square&labelColor=07060d)
 ![UI%2FUX](https://img.shields.io/badge/UI%2FUX-ffffff?style=flat-square&labelColor=07060d)
 ![ML](https://img.shields.io/badge/ML-4ade80?style=flat-square&labelColor=07060d)
-![Open to Internship](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Internship-4ade80?style=flat-square&labelColor=0f1f0f)
 
-*CS Engineering Student · ESPRIT — Web Technologies & Internet*
+*CS Engineering Student · ESPRIT — Full stack Web developer*
 
 ![Visitors](https://komarev.com/ghpvc/?username=mariemammari&color=a855f7&style=flat-square&label=profile+views)
 
