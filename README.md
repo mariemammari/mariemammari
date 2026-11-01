@@ -59,13 +59,6 @@ I earned my bachelor's degree in Computer Science with honors from ISSAT Sousse,
 
 ---
 
-### Experience
-
-**Full Stack Developer Intern · Drivago (iXnihilo S.A.)**<br>
-Contributing to Auto École Plus and Drivago through full-stack development, platform maintenance, calendar features, AI-assisted scheduling, and geospatial pickup-point assignment.
-
----
-
 ### Connect
 
 <div align="center">
