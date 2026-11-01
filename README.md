@@ -1,48 +1,80 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07060d,50:a855f7,100:93c5fd&height=120&section=header&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:200c41,50:a379e9,100:89e7f8&height=140&section=header&animation=fadeIn" alt="Purple and cyan portfolio banner" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=14&pause=800&color=A855F7&center=true&vCenter=true&width=520&lines=Full+Stack+Web+Developer;CS+Engineer+%40+ESPRIT;Open+to+Internship+Opportunities" alt="Mariem Ammari" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=14&pause=900&color=89E7F8&center=true&vCenter=true&width=560&lines=Full+Stack+Developer;CS+Engineering+Student+%40+ESPRIT;DevOps+%26+CI%2FCD" alt="Full Stack Developer, Computer Science Engineering Student at ESPRIT, DevOps and CI/CD" />
 
 # Mariem Ammari
 
-![Full Stack](https://img.shields.io/badge/Full%20Stack-a855f7?style=flat-square&labelColor=07060d)
-![DevOps](https://img.shields.io/badge/DevOps-93c5fd?style=flat-square&labelColor=07060d)
-![UI/UX](https://img.shields.io/badge/UI%2FUX-ffffff?style=flat-square&labelColor=07060d)
-![ML](https://img.shields.io/badge/ML-4ade80?style=flat-square&labelColor=07060d)
+![Full Stack](https://img.shields.io/badge/Full--Stack-a379e9?style=flat-square&labelColor=200c41)
+![DevOps](https://img.shields.io/badge/DevOps-89e7f8?style=flat-square&labelColor=200c41)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-b78aff?style=flat-square&labelColor=200c41)
 
-*CS Engineering Student · ESPRIT — Web Technologies & Internet*
+*Computer Science Engineering Student · ESPRIT · Web Technologies & Internet*
 
-![Visitors](https://komarev.com/ghpvc/?username=mariemammari&color=a855f7&style=flat-square&label=profile+views)
+![Profile views](https://komarev.com/ghpvc/?username=mariemammari&color=a379e9&style=flat-square&label=profile+views)
 
 </div>
 
 ---
 
-Hi, I'm Mariem.
+Hi, I'm Mariem. I take crafting applications personally — quality and attention to detail are what make a project truly worth building.
 
-I take crafting applications personally — quality and attention to detail are what make a project truly worth building.
-
-I earned my bachelor's degree in Computer Science with honors from ISSAT Sousse, and I'm currently completing my engineering cycle at ESPRIT, specializing in Web Technologies & Internet.
-
-Five years across frontend, backend, DevOps, design, and machine learning gave me something I value more than any single skill: the ability to see a product as a whole.
+I earned my bachelor's degree in Computer Science with honors from ISSAT Sousse, and I'm now in the final year of my engineering cycle at ESPRIT, specializing in Web Technologies & Internet. My experience spans full-stack development, microservices, and containerized deployments with Docker and Kubernetes.
 
 ---
 
-### Stack
+### Tech Stack
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/mariemammari/mariemammari/main/stack.svg" alt="Tech Stack" width="100%" />
-</div>
+**Frontend** · React · Angular · TypeScript · Tailwind CSS · Bootstrap<br>
+**DevOps & CI/CD** · Docker · Kubernetes · Jenkins · SonarQube<br>
+**Backend & APIs** · NestJS · Node.js · Spring Boot · Django · REST APIs · Microservices<br>
+**Databases** · PostgreSQL · MySQL · MongoDB · SQL Server<br>
+**Data & ML** · Python · Scikit-learn · XGBoost · FastAPI · Pandas<br>
+**Languages** · JavaScript · Java · Python · C# · Dart · PHP<br>
+**Prior Frameworks** · Laravel · Symfony · ASP.NET Core · Flutter<br>
+**Workflow** · Git · GitHub · Jira · Confluence · Scrum · Kanban<br>
+**Currently Learning** · AWS Cloud Foundations · Prometheus · Grafana · Blockchain
+
+---
+
+### Selected Projects
+
+- **Vers le Vert** — A GreenTech platform for personal carbon-footprint tracking, eco-challenges, OCR-verified actions, community events, and rewards.<br>
+  [GitHub](https://github.com/mariemammari/VersLeVert) · [Live site](https://verslevert.onrender.com)<br>
+  `Django` `PostgreSQL` `Nginx` `Tailwind CSS` `Gemini` `OCR.space`
+
+- **Smart Property** — A full-stack real-estate platform with AI-powered price estimation, recommendations, and OCR document validation, supported by CI/CD and containerized deployment.<br>
+  [Demo video](https://www.youtube.com/watch?v=z0v_b0Qgeng)<br>
+  `React` `NestJS` `MongoDB` `FastAPI` `Docker` `Kubernetes` `Jenkins`
+
+- **DigiService** — A Spring Boot microservices platform using Eureka service discovery, centralized configuration, an API Gateway, Keycloak, and Docker Compose.<br>
+  `Spring Boot` `Spring Cloud` `Eureka` `Keycloak` `Docker`
+
+- **Real Estate Price Predictor** — A machine-learning pipeline for Tunisian property prices, exposed through a FastAPI REST API.<br>
+  `Python` `XGBoost` `Scikit-learn` `Pandas` `FastAPI`
+
+- **InnoMall** — A smart mall-management platform with e-commerce, events, loyalty rewards, QR-based parking, notifications, and an AI assistant.<br>
+  `Symfony` `PHP` `MySQL` `Stripe` `Twilio` `Gemini AI`
+
+---
+
+### Experience
+
+**Full Stack Developer Intern · Drivago (iXnihilo S.A.)**<br>
+Contributing to Auto École Plus and Drivago through full-stack development, platform maintenance, calendar features, AI-assisted scheduling, and geospatial pickup-point assignment.
+
+---
 
 ### Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariem-ammari-0226833a7/)
-[![Behance](https://img.shields.io/badge/Behance-A855F7?style=for-the-badge&logo=behance&logoColor=white)](YOUR_BEHANCE_URL)
-[![Email](https://img.shields.io/badge/Email-07060d?style=for-the-badge&logo=gmail&logoColor=93c5fd)](mailto:YOUR_EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-200c41?style=for-the-badge&logo=github&logoColor=89e7f8)](https://github.com/mariemammari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6139af?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariem-ammari-0226833a7/)
+[![Behance](https://img.shields.io/badge/Behance-a379e9?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/ammarimariem)
+[![Email](https://img.shields.io/badge/Email-200c41?style=for-the-badge&logo=gmail&logoColor=89e7f8)](mailto:ammarim073@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:93c5fd,50:a855f7,100:07060d&height=80&section=footer&text=Always+learning.+forever+grwoing&fontSize=13&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:89e7f8,50:a379e9,100:200c41&height=90&section=footer&text=Always%20learning.%20Forever%20growing.&fontSize=14&fontColor=ffffff&fontAlignY=65&animation=fadeIn" alt="Always learning. Forever growing." />
 
 </div>
